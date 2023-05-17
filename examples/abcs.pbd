@@ -130,6 +130,5 @@ char 9 {
     }
 
     steps {
-        draw_square_spiral((1, 1), 49, 30)
     }
 }
